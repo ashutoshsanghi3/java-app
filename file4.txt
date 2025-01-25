@@ -1,1 +1,2 @@
 file4 added for conflict
+bug is resolved
